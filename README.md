@@ -43,4 +43,4 @@ Katkıda bulunmak isterseniz, lütfen aşağıdaki adımları izleyin:
 Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
 ```
 
-Bu şablonu kendi projenize göre özelleştirebilirsiniz. Başka bir konuda yardımcı olabilir miyim?
+
