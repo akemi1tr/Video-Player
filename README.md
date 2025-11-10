@@ -1,4 +1,4 @@
-Tabii ki! İşte video player'ınız için geliştiricilere yönelik bir `README.md` örneği:
+
 
 ```markdown
 # Video Player
