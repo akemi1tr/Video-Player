@@ -11,7 +11,7 @@ Projenin çalışabilmesi için aşağıdaki adımları izleyin:
 
 1. **Depoyu Klonlayın:**
    ```bash
-   git clone https://github.com/kullaniciadi/video-player.git
+   git clone https://github.com/akemi1tr/video-player.git
    ```
 
 2. **Gerekli Bağımlılıkları Yükleyin:**
